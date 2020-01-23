@@ -1,6 +1,6 @@
 # Created by Pro-Machina
 # This is an implementation of Particle Swarm Optimisation algorithm for the function:
-# Maximize: f(x) = 1 - (x^2) - 2x
+# Maximize: f(x) = 1 - (x^2) + 2x
 # Matrices are classified into position and fitness matrices, majorly only position matrices are used
 
 import numpy as np
